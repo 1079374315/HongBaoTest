@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\King\.gradle\caches\transforms-2\files-2.1\0d9f69e74dd047de41459c18f93f3674\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\4f47ac58837f0936f44d7017696bd07a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\e2668fbad9b118be85db6bb36b847e22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\cc062a2d1099e762c8e134d0efa6f2f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\eeb5da8b5567de56cd3b865099a39fa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\7afdcbbe31e5cd3008a1db7558f34bd5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\915d2ff543e5cedc1bfcd6bd997fc268\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\90f04175949a4e8037f6b79cd148237a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\dda78502c89fe5ef315bb9af22bf99b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\45a4650940cbec32d815bd73fd228cda\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\King\.gradle\caches\transforms-2\files-2.1\c927186b7d4e3afa44101b417b13df56\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:3:11-41
+		INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\King\.gradle\caches\transforms-2\files-2.1\0d9f69e74dd047de41459c18f93f3674\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\King\.gradle\caches\transforms-2\files-2.1\0d9f69e74dd047de41459c18f93f3674\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:11:9-65
+	android:name
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:6:9-30
+activity#com.wang.hongbaotest.MainActivity
+ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:16:27-74
+service#com.wang.hongbaotest.HongBaoService
+ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:19:9-30:19
+	android:enabled
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:21:13-35
+	android:exported
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:22:13-36
+	android:permission
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:23:13-79
+	android:name
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:20:13-43
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:24:13-26:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:25:17-91
+	android:name
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:25:25-89
+meta-data#android.accessibilityservice
+ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:27:13-29:55
+	android:resource
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:29:17-53
+	android:name
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml:28:17-60
+uses-sdk
+INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
+INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\King\.gradle\caches\transforms-2\files-2.1\0d9f69e74dd047de41459c18f93f3674\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\King\.gradle\caches\transforms-2\files-2.1\0d9f69e74dd047de41459c18f93f3674\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\4f47ac58837f0936f44d7017696bd07a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\4f47ac58837f0936f44d7017696bd07a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\e2668fbad9b118be85db6bb36b847e22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\e2668fbad9b118be85db6bb36b847e22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\cc062a2d1099e762c8e134d0efa6f2f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\cc062a2d1099e762c8e134d0efa6f2f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\eeb5da8b5567de56cd3b865099a39fa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\eeb5da8b5567de56cd3b865099a39fa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\7afdcbbe31e5cd3008a1db7558f34bd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\7afdcbbe31e5cd3008a1db7558f34bd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\915d2ff543e5cedc1bfcd6bd997fc268\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\915d2ff543e5cedc1bfcd6bd997fc268\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\90f04175949a4e8037f6b79cd148237a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\90f04175949a4e8037f6b79cd148237a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\dda78502c89fe5ef315bb9af22bf99b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\dda78502c89fe5ef315bb9af22bf99b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\45a4650940cbec32d815bd73fd228cda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\King\.gradle\caches\transforms-2\files-2.1\45a4650940cbec32d815bd73fd228cda\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\King\.gradle\caches\transforms-2\files-2.1\c927186b7d4e3afa44101b417b13df56\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\King\.gradle\caches\transforms-2\files-2.1\c927186b7d4e3afa44101b417b13df56\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
+INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop\HongBaoTest\app\src\main\AndroidManifest.xml
